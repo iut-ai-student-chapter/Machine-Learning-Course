@@ -24,12 +24,12 @@ This course is divided into 7 chapters. Each chapter material is in a [Jupyter N
 
 [Open an issue](../../issues) or contact the authors by:
 - [ms.akhondzadeh@gmail.com](mailto:ms.akhondzadeh@gmail.com) or
--[marmegh@gmail.com](mailto:marmegh@gmail.com) or
--[adelmostafavi76@gmail.com](mailto:adelmostafavi76@gmail.com)
+- [marmegh@gmail.com](mailto:marmegh@gmail.com) or
+- [adelmostafavi76@gmail.com](mailto:adelmostafavi76@gmail.com)
 
 
 # Acknowledge
-Some of these material of these repo inspired from the material of [machine learning course Fall 2017](https://github.com/msadegh97/machine-learning-course) 
+Some of the materials of these course inspired from the material of [machine learning course Fall 2017](https://github.com/msadegh97/machine-learning-course)
 ## License
 
 This course is licensed under [GPLv3](LICENSE).
