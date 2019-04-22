@@ -15,9 +15,9 @@ This course is divided into 7 chapters. Each chapter material is in a [Jupyter N
 2. Introduction to ML, Supervised Learning (Regression),  Feature Scaling
 3. Supervised Learning (Classification), Model Validation, Outlier Detection
 4. More Supervised Learning (SVM, Decision Tree, Random Forest, ...)
-5. Unsupervised Learning (Clustering)
-6. PCA & Feature Selection
-7. Text Mining, Neural Networks
+5. Unsupervised Learning (Clustering) & Dimensionality Reduction
+6. Text Mining
+7. Neural Networks
 
 
 ## Question?
